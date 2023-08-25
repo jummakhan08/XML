@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Garments>
+<Men cate="nike" xmlns:m="http://Men's/Women's/Web" >
+<name>JKARFOO</name>
+<price>3000</price>
+<Disc>20</Disc>
+</Men>
+
+<Men cate="nike" xmlns:m="http://Men's/Women's/Web" >
+<name>JKARFOO</name>
+<price>3000</price>
+<Disc>20</Disc>
+</Men>
+
+<Men cate="nike" xmlns:m="http://Men's/Women's/Web" >
+<name>JKARFOO</name>
+<price>3000</price>
+<Disc>20</Disc>
+</Men>
+
+<Women cate="adidas" xmlns:m="http://Men's/Women's/Web" >
+<name>CR</name>
+<price>4000</price>
+<Disc>15</Disc>
+</Women>
+
+<Women cate="adidas" xmlns:m="http://Men's/Women's/Web" >
+<name>CR</name>
+<price>4000</price>
+<Disc>15</Disc>
+</Women>
+
+<Women cate="adidas" xmlns:m="http://Men's/Women's/Web" >
+<name>CR</name>
+<price>4000</price>
+<Disc>15</Disc>
+</Women>
+
+</Garments>
